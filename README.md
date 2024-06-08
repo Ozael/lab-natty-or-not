@@ -26,14 +26,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Música lo-fi criada com IA.
 
 ## 🤖 Tecnologias Utilizadas
-usado o serviço <a href="https://boomy.com/">boomy</a>
+usado o serviço [boomy](https://boomy.com)
 
 ## 🧐 Processo de Criação
 De forma geral a plataforma é bem intuitiva, possibilitando escolher o estilo musical e instrumentos e efeitos.
 
 
 ## 🚀 Resultados[
-Para ouvir a música <a href="https://boomy.com/s/19730981">click aqui</a> 
+Para ouvir a música [click aqui](https://boomy.com/s/19730981)
 
 ## 💭 Reflexão (Opcional)
 A plataforma possui modos mais avançados de criação, porém pagos, nesse caso
