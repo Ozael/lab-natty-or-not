@@ -23,20 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Música lo-fi criada com IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+usado o serviço <a href="https://boomy.com/">boomy</a>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+De forma geral a plataforma é bem intuitiva, possibilitando escolher o estilo musical e instrumentos e efeitos.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+## 🚀 Resultados[
+Para ouvir a música <a href="https://boomy.com/s/19730981">click aqui</a> 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A plataforma possui modos mais avançados de criação, porém pagos, nesse caso
+acaba limitando um pouco.
+
 
 ### Exemplos e Insigths
 
